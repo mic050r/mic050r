@@ -1,5 +1,5 @@
 ### Hi there 👋
-### MIRIMI
+
 <!--
 **mic050r/mic050r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
