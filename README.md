@@ -1,6 +1,20 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=%20Hi%20there%20&fontSize=80&textBg=true&animation=fadeIn)
+
+Hi, I'm JiHyeon.
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+ 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<--![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <center><h4> Studying language</h4>
 <center>
@@ -27,7 +41,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor==white&link=https://rei050r.tistory.com/"/>
   
 </a>
-</center>
+</center>-->
 
 <!--
 **mic050r/mic050r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
