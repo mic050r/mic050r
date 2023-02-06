@@ -11,8 +11,6 @@ Hi, I'm JiHyeon.
 - 📫 이메일 : s2216@gmail.hs.kr
 - 😄 블로그 : https://rei050r.tistory.com/
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mic050r&theme=nord)](https://github.com/mic050r/github-readme-activity-graph)
-
 <!--[header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <center><h4> Studying language</h4>
