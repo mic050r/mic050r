@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hi, I'm JiHyeon.
+### Hi, I'm JiHyeon.
 
 - 👩🏻‍💻 Name : Lim Ji Hyeon
 - 🎈 Age : Born in 2006
