@@ -1,5 +1,5 @@
 ## Hi, I'm JiHyeon.
-
+I'm a developer who challenges new things.🔥🔥
 - 👩🏻‍💻 Name : Lim Ji Hyeon
 - 🎈 Age : Born in 2006
 - 🏫 School : Mirim GIrl's Information Science High School
