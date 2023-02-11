@@ -8,8 +8,8 @@
 - ✍ Tools : <img  src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> <img  src="https://img.shields.io/badge/Visual Studio-C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img  src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img  src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img  src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img  src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 - 💫 SNS :<a href="https://rei050r.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor==white&link=https://rei050r.tistory.com/"/>
-  <a href="https://rei050r.tistory.com/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor==white&link=https://rei050r.tistory.com/"/></a>
+  <a href="https://rei050r.Instagram.com/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor==white&link=https:/[/rei050r.tistory.com/](https://www.instagram.com/rei050r/)"/></a>
 - 📫 Email : s2216@gmail.hs.kr
 - 😄 Blog : https://rei050r.tistory.com/
 
