@@ -9,7 +9,7 @@
 - 💫 SNS : <a href="https://rei050r.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor==white&link=https://rei050r.tistory.com/"/>
   <a href="https://www.instagram.com/rei050r/">
-  <img src="http://img.shields.io/badge/Instagram-E4405F?style=flat&logo=아이콘명(ex.Instagram)&link=https://www.instagram.com/rei050r/"style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor==white&link=https://rei050r.tistory.com/"/></a>
 - 📫 Email : s2216@gmail.hs.kr
 - 😄 Blog : https://rei050r.tistory.com/
 
