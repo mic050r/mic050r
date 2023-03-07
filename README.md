@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=capsule%20render&fontSize=90)
-## Hi, I'm JiHyeon.
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=header&text=Hi,%I'm%JiHyeon.&fontSize=90&type=waving)
+## 
 **I'm a developer who challenges new things.🔥🔥**
 - 👩🏻‍💻 Name : Lim Ji Hyeon
 - 🎈 Age : Born in 2006
