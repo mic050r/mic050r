@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi,%I'm%JiHyeon.&fontSize=70)
-**I'm a developer who challenges new things.🔥🔥**
+
+### I'm a developer who challenges new things.🔥🔥
 - 👩🏻‍💻 Name : Lim Ji Hyeon
 - 🎈 Age : Born in 2006
 - 🏫 School : Mirim GIrl's Information Science High School
