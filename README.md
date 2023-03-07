@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=header&text=Hi,%I'm%JiHyeon.&fontSize=90&type=waving)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi,%I'm%JiHyeon.&fontSize=90)
 ## 
 **I'm a developer who challenges new things.🔥🔥**
 - 👩🏻‍💻 Name : Lim Ji Hyeon
