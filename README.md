@@ -14,7 +14,5 @@
 - 📫 Email : s2216@gmail.hs.kr
 - 😄 Blog : https://rei050r.tistory.com/
 
-  
+ <br> 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mic050r&layout=compact)](https://github.com/mic050r/github-readme-stats)
-  ![Mic050r's GitHub stats](https://github-readme-stats.vercel.app/api?mic050r=anuraghazra&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mic050r&show_icons=true&theme=radical)
