@@ -12,7 +12,8 @@
   <a href="https://www.instagram.com/rei050r/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor==white&link=https://rei050r.tistory.com/"/></a>
 - 📫 Email : s2216@gmail.hs.kr
-- 😄 Blog : https://rei050r.tistory.com/
+- 😄 Blog : https://rei050r.tistory.com/<br>
+ 
 
- <br> 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mic050r&layout=compact)](https://github.com/mic050r/github-readme-stats)
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mic050r&layout=compact)](https://github.com/mic050r/github-readme-stats)
