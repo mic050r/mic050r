@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Wel%come&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Developer&fontSize=60&fontColor=white)
 
 **I'm a developer who challenges new things.🔥🔥**
 
