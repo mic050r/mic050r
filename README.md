@@ -17,3 +17,4 @@
 
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mic050r&layout=compact)](https://github.com/mic050r/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mic050r&show_icons=true&theme=radical)
