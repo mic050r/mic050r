@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Developer&fontSize=60&fontColor=white)
 
 **I'm a developer who challenges new things.🔥🔥**
-<body>
+
 - 👩🏻‍💻 Name : Lim Ji Hyeon
 - 🎈 Age : Born in 2006
 - 🏫 School : Mirim GIrl's Information Science High School
@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/rei050r/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor==white&link=https://rei050r.tistory.com/"/></a>
 - 📫 Email : s2216@gmail.hs.kr
 - 😄 Blog : https://rei050r.tistory.com/<br>
- </body>
+
 
   
 
