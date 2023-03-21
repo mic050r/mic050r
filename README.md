@@ -2,7 +2,8 @@
 
 **I'm a developer who challenges new things.🔥🔥**
 
-**I focus on the process I can control rather than the outcome I can't control.!! **
+**I focus on the process I can control rather than the outcome I can't control!!**
+
 - 👩🏻‍💻 Name : Lim Ji Hyeon
 - 🎈 Age : Born in 2006
 - 🏫 School : Mirim GIrl's Information Science High School
