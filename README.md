@@ -13,8 +13,9 @@ I focus on the process I can control rather than the outcome I can't control!!<h
  💫 SNS <br>
  <img  src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> <a href="https://rei050r.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor==white&link=https://rei050r.tistory.com/"/><a href="https://www.instagram.com/rei050r/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor==white&link=https://rei050r.tistory.com/"/></a>
 <br>
-</div>
+
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mic050r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mic050r&show_icons=true&theme=radical) 
+</div>
