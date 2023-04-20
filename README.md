@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=🤞&fontSize=60&fontColor=white)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=🤞&fontSize=60&fontColor=white) -->
 <div align="center">
+  <h1>Bamsae's developer<h1>
   <h3>😊Introduction <h3> 
 <h4>Hello, I'm Lim Jihyun, I'm a developer who challenges new things.🔥🔥
   
