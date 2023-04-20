@@ -15,4 +15,9 @@ I focus on the process I can control rather than the outcome I can't control!!<h
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mic050r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mic050r&show_icons=true&theme=radical) 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mic050r&theme=dracula)
+    
+    
 </div>
+    
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
