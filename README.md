@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=🤞&fontSize=60&fontColor=white)
 <div align="center">
-<h2>Hello, I'm Lim Jihyun, I'm a developer who challenges new things.🔥🔥<br>
-I focus on the process I can control rather than the outcome I can't control!!<h2><br>
+  <h3>😊Introduction <h3> 
+<h4>Hello, I'm Lim Jihyun, I'm a developer who challenges new things.🔥🔥
+  
+  I focus on the process I can control rather than the outcome I can't control!!<h4>
   <h3>🌱Learning <h3> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  <img  src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img  src="https://img.shields.io/badge/HTML-302683?style=flat-square&logo=HTML&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
 <br>
@@ -20,4 +22,4 @@ I focus on the process I can control rather than the outcome I can't control!!<h
     
 </div>
     
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
+<!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer) -->
