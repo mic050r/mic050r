@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=🤞&fontSize=60&fontColor=white) -->
 <div align="center">
-  <h1>Bamsae's developer<h1>
+  <hr>
   <h3>😊Introduction <h3> 
 <h4>Hello, I'm Lim Jihyun, I'm a developer who challenges new things.🔥🔥
   
@@ -19,7 +19,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mic050r&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mic050r&show_icons=true&theme=radical)   -->
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mic050r&theme=dracula)
-    
+    <hr>
     
 </div>
     
