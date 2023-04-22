@@ -1,5 +1,8 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=🤞&fontSize=60&fontColor=white) -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7E61B&width=444&lines=I'm+Lim+Ji-hyun;+who+challenges+and+completes+;without+complete+change.)](https://git.io/typing-svg)
 <div align="center">
+  
   <hr>
   <h3>😊Introduction <h3> 
 <h4>Hello, I'm Lim Jihyun, I'm a developer who challenges new things.🔥🔥
