@@ -16,7 +16,7 @@ I focus on the process I can control rather than the outcome I can't control!!<h
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-4479A1?style=flat&logo=PHP&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/>
   
 <br>
 <h3>✍Tools<h3>
