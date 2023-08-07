@@ -29,11 +29,11 @@
   <a href="https://www.instagram.com/rei050r/">Instagram</a> 
 </p>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mic050r)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mic050r)](https://velog.io/@mic050r)
 
 <h2>GitHub Streak</h2>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=mic050r&theme=apprentice&date_format=%5BY.%5Dn.j)](https://velog.io/@mic050r)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mic050r&theme=apprentice&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 <hr>
 
 </div>
