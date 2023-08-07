@@ -33,7 +33,7 @@
 
 <h2>GitHub Streak</h2>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=mic050r&theme=apprentice&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mic050r&theme=apprentice&date_format=%5BY.%5Dn.j)](https://velog.io/@mic050r)
 <hr>
 
 </div>
