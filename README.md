@@ -38,8 +38,8 @@
 <h2>Studying</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Study_Java)](https://github.com/mic050r/Study_Java)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Algorithm_C)](https://github.com/mic050r/Algorithm_C)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=WEB2-PHP)](https://github.com/mic050r/WEB2-PHP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Study_C)](https://github.com/mic050r/Study_C)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Study_PHP)](https://github.com/mic050r/Study_PHP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=TIL)](https://github.com/mic050r/TIL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=2023-TIL_DS-study)](https://github.com/mic050r/2023-TIL_DS-study)
 
@@ -55,10 +55,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Mirim-Prescription)](https://github.com/mic050r/Mirim-Prescription)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Your-Planet-1)](https://github.com/mic050r/Your-Planet-1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Java_winter)](https://github.com/mic050r/Java_winter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=StarBucks)](https://github.com/mic050r/StarBucks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=TWeeksStudy_JS)](https://github.com/mic050r/TWeeksStudy_JS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=DoNotSleepAI)](https://github.com/mic050r/DoNotSleepAI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Web-Project)](https://github.com/mic050r/Web-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=StarBucks)](https://github.com/mic050r/StarBucks)
+
 
 
 
