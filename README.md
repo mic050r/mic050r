@@ -16,8 +16,9 @@
 <h2>Studying</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Study_Java)](https://github.com/mic050r/Study_Java)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Study_C)](https://github.com/mic050r/Study_C)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Study_PHP)](https://github.com/mic050r/Study_PHP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Study_C)](https://github.com/mic050r/Study_C)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Study_Cpp)](https://github.com/mic050r/Study_Cpp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=TWeeksStudy_JS)](https://github.com/mic050r/TWeeksStudy_JS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=TIL)](https://github.com/mic050r/TIL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MSG-Mirim-Study-Group&repo=2023-TIL_DS-study)](https://github.com/MSG-Mirim-Study-Group/2023-TIL_DS-study)
