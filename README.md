@@ -30,6 +30,7 @@
 </p>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mic050r)](https://velog.io/@mic050r)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rei050r&theme=default)](https://rei050r.tistory.com/)
 
 <!-- <h2>GitHub Streak</h2>
 [![GitHub Streak](https://streak-stats.demolab.com?user=mic050r&theme=apprentice&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
