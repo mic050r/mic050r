@@ -1,8 +1,10 @@
 
-<div align="center">
+
   
-# 👋 안녕하세요, 임지현입니다!
-새로운 도전을 좋아합니다. 제어 가능한 프로세스에 집중하여 결과를 끌어내고 있습니다.
+### 👋 완벽하지 않아도, 도전하고 덤벼들어 완성하는 임지현입니다!
+> 새로운 도전을 좋아합니다. 제어 가능한 프로세스에 집중하여 결과를 끌어내고 있습니다.
+
+### 🔥 저의 활동입니다!
 
 <details>
   <summary><b> Blog </b></summary>
@@ -24,7 +26,7 @@
 </details>
 
 <details>
-  <summary><b>Ed</b></summary>
+  <summary><b>Education</b></summary>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=JavaScript_for_studying_alone)](https://github.com/mic050r/JavaScript_for_studying_alone)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Python_for_studying_alone)](https://github.com/mic050r/Python_for_studying_alone)
