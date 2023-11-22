@@ -1,6 +1,3 @@
-
-
-  
 ### 👋 완벽하지 않아도, 도전하고 덤벼들어 완성하는 임지현입니다!
 > 새로운 도전을 좋아합니다. 제어 가능한 프로세스에 집중하여 결과를 끌어내고 있습니다.
 
@@ -9,17 +6,17 @@
 <details>
   <summary><b> Blog </b></summary>
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mic050r)](https://velog.io/@mic050r)
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rei050r&theme=default)](https://rei050r.tistory.com/)
+  - [Velog](https://velog.io/@mic050r)
+  - [Tistory](https://rei050r.tistory.com/)
+    
+  <!--[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mic050r)](https://velog.io/@mic050r)
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rei050r&theme=default)](https://rei050r.tistory.com/) -->
 </details>
 
 <details>
   <summary><b>Studying</b></summary>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Study_Java)](https://github.com/mic050r/Study_Java)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Study_PHP)](https://github.com/mic050r/Study_PHP)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Study_C)](https://github.com/mic050r/Study_C)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Study_Cpp)](https://github.com/mic050r/Study_Cpp)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=TWeeksStudy_JS)](https://github.com/mic050r/TWeeksStudy_JS)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=TIL)](https://github.com/mic050r/TIL)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MSG-Mirim-Study-Group&repo=2023-TIL_DS-study)](https://github.com/MSG-Mirim-Study-Group/2023-TIL_DS-study)
@@ -27,9 +24,14 @@
 
 <details>
   <summary><b>Education</b></summary>
-
+  
+  - 혼공단
+  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=JavaScript_for_studying_alone)](https://github.com/mic050r/JavaScript_for_studying_alone)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Python_for_studying_alone)](https://github.com/mic050r/Python_for_studying_alone)
+
+  - 마이크로
+
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=WebApplication)](https://github.com/mic050r/WebApplication)
 </details>
 
