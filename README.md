@@ -3,16 +3,18 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmic050r%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mic050r)](https://velog.io/@mic050r)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rei050r&theme=default)](https://rei050r.tistory.com/)
 ### 🔥 저의 활동입니다!
 
-<details>
+<!--<details>
   <summary><b> Blog </b></summary>
   
   - [Velog](https://velog.io/@mic050r)
   - [Tistory](https://rei050r.tistory.com/)
     
-  <!--[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mic050r)](https://velog.io/@mic050r)
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rei050r&theme=default)](https://rei050r.tistory.com/) -->
+   -->
 </details>
 
 <details>
