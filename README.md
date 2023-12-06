@@ -1,5 +1,5 @@
 ### 👋 완벽하지 않아도, 도전하고 덤벼들어 완성하는 임지현입니다!
-> 새로운 도전을 좋아합니다. 제어 가능한 프로세스에 집중하여 결과를 끌어내고 있습니다.
+> 늘 호기심 가득한 마음으로 새로운 기술과 도전에 덤볐던 경험이, 저를 끊임없이 성장하게 만들었습니다. 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmic050r%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
