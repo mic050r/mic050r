@@ -6,16 +6,11 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mic050r)](https://velog.io/@mic050r)
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rei050r&theme=default)](https://rei050r.tistory.com/)
-### 🔥 저의 활동입니다!
+
 
 <!--<details>
-  <summary><b> Blog </b></summary>
-  
-  - [Velog](https://velog.io/@mic050r)
-  - [Tistory](https://rei050r.tistory.com/)
-    
-   -->
-</details>
+
+### 🔥 저의 활동입니다!
 
 <details>
   <summary><b>Studying</b></summary>
@@ -60,3 +55,4 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PostRecall&repo=PostRecall-BE)](https://github.com/PostRecall/PostRecall-BE)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=23MITHON&repo=MiriDo)](https://github.com/23MITHON/MiriDo)
 </details>
+-->
