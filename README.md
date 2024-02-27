@@ -5,13 +5,13 @@
 
 
 ### 💁🏻‍♀️ My Interest
+<code><img height="35" src="https://skills.thijs.gg/icons?i=ruby&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=spring&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=nodejs&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=mysql&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=aws&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=docker&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=notion&theme=light"></code>
-
 
 
 ### 👇🏻 Latest Blog 
