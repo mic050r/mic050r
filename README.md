@@ -5,14 +5,13 @@
 
 
 ### 💁🏻‍♀️ My Interest
-![springboot](https://www.codenary.co.kr/widget/github-techstack/api?name=springboot) ![java](https://www.codenary.co.kr/widget/github-techstack/api?name=java) ![javascript](https://www.codenary.co.kr/widget/github-techstack/api?name=javascript) ![python](https://www.codenary.co.kr/widget/github-techstack/api?name=python) ![flask](https://www.codenary.co.kr/widget/github-techstack/api?name=flask) ![docker](https://www.codenary.co.kr/widget/github-techstack/api?name=docker) ![notion](https://www.codenary.co.kr/widget/github-techstack/api?name=notion) 
-<!-- <code><img height="35" src="https://skills.thijs.gg/icons?i=ruby&theme=light"></code>
+<code><img height="35" src="https://skills.thijs.gg/icons?i=ruby&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=spring&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=nodejs&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=mysql&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=aws&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=docker&theme=light"></code>
-<code><img height="35" src="https://skills.thijs.gg/icons?i=notion&theme=light"></code> -->
+<code><img height="35" src="https://skills.thijs.gg/icons?i=notion&theme=light"></code>
 
 
 ### 👇🏻 Latest Blog 
