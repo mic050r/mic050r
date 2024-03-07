@@ -5,18 +5,22 @@
 
 
 ### 💁🏻‍♀️ My Interest
-<code><img height="35" src="https://skills.thijs.gg/icons?i=ruby&theme=light"></code>
+![springboot](https://www.codenary.co.kr/widget/github-techstack/api?name=springboot) ![java](https://www.codenary.co.kr/widget/github-techstack/api?name=java) ![javascript](https://www.codenary.co.kr/widget/github-techstack/api?name=javascript) ![python](https://www.codenary.co.kr/widget/github-techstack/api?name=python) ![flask](https://www.codenary.co.kr/widget/github-techstack/api?name=flask) ![docker](https://www.codenary.co.kr/widget/github-techstack/api?name=docker) ![notion](https://www.codenary.co.kr/widget/github-techstack/api?name=notion) 
+<!-- <code><img height="35" src="https://skills.thijs.gg/icons?i=ruby&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=spring&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=nodejs&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=mysql&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=aws&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=docker&theme=light"></code>
-<code><img height="35" src="https://skills.thijs.gg/icons?i=notion&theme=light"></code>
+<code><img height="35" src="https://skills.thijs.gg/icons?i=notion&theme=light"></code> -->
 
 
 ### 👇🏻 Latest Blog 
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mic050r)](https://velog.io/@mic050r) [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rei050r&theme=default)](https://rei050r.tistory.com/)
+
+[![Github](https://www.codenary.co.kr/widget/github/api?username=밤새)](https://www.codenary.co.kr/user-profile/detail/밤새?github_ride=true&utm_source=github)
+
 
 <br>
 <p align="right">
@@ -25,8 +29,6 @@
   </a>
 </p>
 
-
-  
 <!--<details>
 
 ### 🔥 저의 활동입니다!
