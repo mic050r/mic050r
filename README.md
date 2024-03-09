@@ -18,6 +18,7 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mic050r)](https://velog.io/@mic050r) [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rei050r&theme=default)](https://rei050r.tistory.com/)
 
+### 🔥 1년 동안의 Acitivity
 [![Github](https://www.codenary.co.kr/widget/github/api?username=밤새)](https://www.codenary.co.kr/user-profile/detail/밤새?github_ride=true&utm_source=github)
 
 
