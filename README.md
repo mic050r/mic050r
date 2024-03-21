@@ -3,6 +3,11 @@
 또한, **기초를 중요하게 생각**하며, 기본기를 탄탄히 다지는 것이 중요하다고 생각합니다. <br>
 그리고, **실수와 반복을 최소화** 하기 위해 **회고록을 작성**하고 **문서를 업데이트**하는 습관을 가지고 있습니다.
 
+### ✏ My Storage
+> [스스로 공부하는 곳 🤗](https://rei050r.tistory.com/) <br>
+  [프로젝트를 통해 배운 내용을 작성하며 성장해 나가는 곳 😊](https://velog.io/@mic050r)
+
+
 
 ### 💁🏻‍♀️ My Interest
 <code><img height="35" src="https://skills.thijs.gg/icons?i=ruby&theme=light"></code>
@@ -13,10 +18,11 @@
 <code><img height="35" src="https://skills.thijs.gg/icons?i=docker&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=notion&theme=light"></code>
 
-
+<!-- 
 ### 👇🏻 Latest Blog 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mic050r)](https://velog.io/@mic050r) [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rei050r&theme=default)](https://rei050r.tistory.com/)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mic050r)](https://velog.io/@mic050r) [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rei050r&theme=default)](https://rei050r.tistory.com/) 
+-->
 
 ### 🔥 1년 동안의 Acitivity
 [![Github](https://www.codenary.co.kr/widget/github/api?username=밤새)](https://www.codenary.co.kr/user-profile/detail/밤새?github_ride=true&utm_source=github)
