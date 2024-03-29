@@ -11,6 +11,7 @@
 
 ### 💁🏻‍♀️ My Interest
 <code><img height="35" src="https://skills.thijs.gg/icons?i=ruby&theme=light"></code>
+<code><img height="35" src="https://skills.thijs.gg/icons?i=go&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=spring&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=nodejs&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=mysql&theme=light"></code>
