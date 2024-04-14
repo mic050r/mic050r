@@ -24,10 +24,10 @@
 -->
 
 ### 🔥 My Acitivity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mic050r&theme=transparent)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mic050r)](https://github.com/anuraghazra/github-readme-stats)
-[![Github](https://www.codenary.co.kr/widget/github/api?username=밤새)](https://www.codenary.co.kr/user-profile/detail/밤새?github_ride=true&utm_source=github)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mic050r&theme=transparent)](https://git.io/streak-stats)
+
+<!--  [![Github](https://www.codenary.co.kr/widget/github/api?username=밤새)](https://www.codenary.co.kr/user-profile/detail/밤새?github_ride=true&utm_source=github) -->
 
 
 <br>
