@@ -7,8 +7,6 @@
 > [스스로 공부하는 곳 🤗](https://rei050r.tistory.com/) <br>
   [프로젝트를 통해 배운 내용을 작성하며 성장해 나가는 곳 😊](https://velog.io/@mic050r)
 
-
-
 ### 💁🏻‍♀️ My Interest
 <code><img height="35" src="https://skills.thijs.gg/icons?i=ruby&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=go&theme=light"></code>
@@ -25,7 +23,10 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mic050r)](https://velog.io/@mic050r) [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rei050r&theme=default)](https://rei050r.tistory.com/) 
 -->
 
-### 🔥 1년 동안의 Acitivity
+### 🔥 My Acitivity
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mic050r&theme=transparent)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mic050r)](https://github.com/anuraghazra/github-readme-stats)
 [![Github](https://www.codenary.co.kr/widget/github/api?username=밤새)](https://www.codenary.co.kr/user-profile/detail/밤새?github_ride=true&utm_source=github)
 
 
