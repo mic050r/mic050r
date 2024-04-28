@@ -8,14 +8,17 @@
   [프로젝트를 통해 배운 내용을 작성하며 성장해 나가는 곳 😊](https://velog.io/@mic050r)
 
 ### 💁🏻‍♀️ My Interest
-<code><img height="35" src="https://skills.thijs.gg/icons?i=ruby&theme=light"></code>
+<!-- <code><img height="35" src="https://skills.thijs.gg/icons?i=rust&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=go&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=spring&theme=light"></code>
-<code><img height="35" src="https://skills.thijs.gg/icons?i=nodejs&theme=light"></code>
-<code><img height="35" src="https://skills.thijs.gg/icons?i=mysql&theme=light"></code>
+<code><img height="35" src="https://skills.thijs.gg/icons?i=sequelize&theme=light"></code>
+<code><img height="35" src="https://skills.thijs.gg/icons?i=redis&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=aws&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=docker&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=notion&theme=light"></code>
+<code><img height="35" src="https://skills.thijs.gg/icons?i=obsidian&theme=dark"></code>
+--> 
+[![My Skills](https://skillicons.dev/icons?i=go,ruby,docker,linux,spring,hibernate,aws,sequelize,redis,obsidian)](https://skillicons.dev)
 
 <!-- 
 ### 👇🏻 Latest Blog 
