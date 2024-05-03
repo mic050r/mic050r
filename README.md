@@ -20,18 +20,14 @@
 --> 
 [![My Skills](https://skillicons.dev/icons?i=go,ruby,docker,linux,spring,hibernate,aws,sequelize,redis,obsidian)](https://skillicons.dev)
 
-<!-- 
-### 👇🏻 Latest Blog 
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mic050r)](https://velog.io/@mic050r) [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=rei050r&theme=default)](https://rei050r.tistory.com/) 
--->
-
 ### 🔥 My Acitivity
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mic050r)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=mic050r&theme=transparent)](https://git.io/streak-stats)
+<a href="https://github.com/mic050r/github-readme-stats">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=mic050r" />
+</a>
 
-<!--  [![Github](https://www.codenary.co.kr/widget/github/api?username=밤새)](https://www.codenary.co.kr/user-profile/detail/밤새?github_ride=true&utm_source=github) -->
-
+<a href="https://git.io/streak-stats">
+  <img height=170 align="center" src="https://streak-stats.demolab.com?user=mic050r&theme=transparent" />
+</a> 
 
 <br>
 <p align="right">
@@ -39,52 +35,3 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmic050r%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" alt="Hits">
   </a>
 </p>
-
-<!--<details>
-
-### 🔥 저의 활동입니다!
-
-<details>
-  <summary><b>Studying</b></summary>
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Study_PHP)](https://github.com/mic050r/Study_PHP)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=TWeeksStudy_JS)](https://github.com/mic050r/TWeeksStudy_JS)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=TIL)](https://github.com/mic050r/TIL)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MSG-Mirim-Study-Group&repo=2023-TIL_DS-study)](https://github.com/MSG-Mirim-Study-Group/2023-TIL_DS-study)
-</details>
-
-<details>
-  <summary><b>Education</b></summary>
-  
-  - 혼공단
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=JavaScript_for_studying_alone)](https://github.com/mic050r/JavaScript_for_studying_alone)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Python_for_studying_alone)](https://github.com/mic050r/Python_for_studying_alone)
-
-  - 마이크로
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=WebApplication)](https://github.com/mic050r/WebApplication)
-</details>
-
-<details>
-  <summary><b>Personal</b></summary>
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Mirim-Prescription)](https://github.com/mic050r/Mirim-Prescription)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Java_winter)](https://github.com/mic050r/Java_winter)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=StarBucks)](https://github.com/mic050r/StarBucks)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=DoNotSleepAI)](https://github.com/mic050r/DoNotSleepAI)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Web-Project)](https://github.com/mic050r/Web-Project)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mic050r&repo=Melody_Beatdown)](https://github.com/mic050r/Melody_Beatdown)
-</details>
-
-<details>
-  <summary><b>Collaboration</b></summary>
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MSG-Mirim-Study-Group&repo=Your-Planet)](https://github.com/MSG-Mirim-Study-Group/Your-Planet)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2023-Test-mate&repo=test-mate-back)](https://github.com/2023-Test-mate/test-mate-back)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GoHong-Coders&repo=TwinklingMenuMatch)](https://github.com/GoHong-Coders/TwinklingMenuMatch)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PostRecall&repo=PostRecall-FE)](https://github.com/PostRecall/PostRecall-FE)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PostRecall&repo=PostRecall-BE)](https://github.com/PostRecall/PostRecall-BE)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=23MITHON&repo=MiriDo)](https://github.com/23MITHON/MiriDo)
-</details>
--->
