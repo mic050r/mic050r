@@ -37,8 +37,8 @@
 
 | 제목 | 기간 | 인원 | 소개 | 맡은 역할 | 사용스킬 | 링크 |
 | :--------: | :-----: | :---------: | :-------: | :-------: | :------: | :---------: |
-| Wevel | 2024.01 <br> (현재 리팩토링중) | FE 1 BE 2 | 자동으로 영수증을 번역, 정리해서 나의 소비금액을 알려주는 서비스 | Front,Back | Spring Boot3 | [Front](https://github.com/23JGP/Wevel_App) [Back](https://github.com/23JGP/Wevel_Server) |
-| TestMate | 2023.08 ~ 2023.09<br> (현재 리팩토링중) | FE 2 BE 2 | 시험지 분석을 통해 개인의 학습 수준을 파악하고, 향상시키기 위한 자기주도학습 지원 앱 | Front, Back | Android, Spring Boot3 | [Front](https://github.com/2023-Test-mate/test-mate-android) [Back](https://github.com/2023-Test-mate/test-mate-back-ver2) |
+| Wevel | 2024.01 <br> (리팩토링중) | FE 1 BE 2 | 자동으로 영수증을 번역, 정리해서 나의 소비금액을 알려주는 서비스 | Front,Back | Spring Boot3 | [Front](https://github.com/23JGP/Wevel_App) [Back](https://github.com/23JGP/Wevel_Server) |
+| TestMate | 2023.08 ~ 2023.09<br> (리팩토링중) | FE 2 BE 2 | 시험지 분석을 통해 개인의 학습 수준을 파악하고, 향상시키기 위한 자기주도학습 지원 앱 | Front, Back | Android, Spring Boot3 | [Front](https://github.com/2023-Test-mate/test-mate-android) [Back](https://github.com/2023-Test-mate/test-mate-back-ver2) |
 | MtoM | 2024.04 ~ ing | FE 2 BE 2 | 미림 안에서 멘토와 멘티를 매칭하고, 학생들끼리 서로 소통 할 수 있는 커뮤니티 | Back | Spring Boot3 | [링크](https://github.com/2024-ITShow-MToM/MtoM-Back) |
 | PostRecall | 2023.09 ~ 2023.12 | FE 1 BE 1 | 포스트잇 공부법을 토대로한 빠르고 편리한 스마트 학습 서비스 | Front, Back | Node.js | [링크](https://github.com/PostRecall/PostRecall-BE) |
 | StarBuck | 2023.06 ~ 2023.12 | 개인 | 스타벅스의 음료 메뉴를 장바구니 추가 및 결제 할 수 있는 홈페이지 | Front, Back | PHP, Twig | [링크](https://github.com/mic050r/StarBucks) |
