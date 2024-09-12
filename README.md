@@ -18,7 +18,7 @@
 <code><img height="35" src="https://skills.thijs.gg/icons?i=notion&theme=light"></code>
 <code><img height="35" src="https://skills.thijs.gg/icons?i=obsidian&theme=dark"></code>
 --> 
-[![My Skills](https://skillicons.dev/icons?i=javascript,docker,express,spring,hibernate,gradle,linux,aws,redis,gitlab,obsidian,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,docker,nest,spring,hibernate,gradle,linux,aws,redis,gitlab,obsidian,notion)](https://skillicons.dev)
 
 ### 🔥 My Acitivity
 
