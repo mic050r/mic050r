@@ -4,8 +4,15 @@
 그리고, **실수와 반복을 최소화** 하기 위해 **회고록을 작성**하고 **문서를 업데이트**하는 습관을 가지고 있습니다.
 
 ### ✏ My Storage
-> [스스로 공부하는 곳 🤗](https://rei050r.tistory.com/) <br>
-  [프로젝트를 통해 배운 내용을 작성하며 성장해 나가는 곳 😊](https://velog.io/@mic050r)
+<a href="https://rei050r.tistory.com/">
+  <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory" width="120" height="30"/>
+</a>
+<a href="https://velog.io/@mic050r">
+  <img src="https://velog-readme-stats.vercel.app/api/badge?name=Velog" width="120" height="25"/>
+</a>
+
+> 🏫 [수업 코드 Organization](https://github.com/school-note) <br>
+> 🤓 [개발 스터디 Organization](https://github.com/jh-study-note)
 
 ### 💁🏻‍♀️ My Interest
 <!-- <code><img height="35" src="https://skills.thijs.gg/icons?i=rust&theme=light"></code>
