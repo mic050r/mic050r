@@ -4,12 +4,11 @@
 그리고, **실수와 반복을 최소화** 하기 위해 **회고록을 작성**하고 **문서를 업데이트**하는 습관을 가지고 있습니다.
 
 ### ✏ My Storage
-<a href="https://rei050r.tistory.com/">
-  <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory" width="120" height="30"/>
-</a>
-<a href="https://velog.io/@mic050r">
-  <img src="https://velog-readme-stats.vercel.app/api/badge?name=Velog" width="120" height="25"/>
-</a>
+  <a href="https://velog.io/@phinsso/posts"><img src="https://img.shields.io/badge/velog-20c997.svg?style=for-the-badge&logo=velog&logoColor=white"/></a>
+    </div>
+      <a href="https://rei050r.tistory.com"><img src="https://img.shields.io/badge/tistory-FF4500?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+    </div>
+
 
 > 🏫 [수업 코드 Organization](https://github.com/school-note) <br>
 > 🤓 [개발 스터디 Organization](https://github.com/jh-study-note)
