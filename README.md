@@ -51,14 +51,14 @@
 | StarBuck | 2023.06 ~ 2023.12 | 개인 | 스타벅스의 음료 메뉴를 장바구니 추가 및 결제 할 수 있는 홈페이지 | Front, Back | PHP, Twig | [링크](https://github.com/mic050r/StarBucks) |
 </div>
 
-<br>
+<br><br>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/mic050r"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/mic050r"
+  width="600"
+  height="300"
+/>
 </a>
   
 <br>
