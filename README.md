@@ -1,4 +1,5 @@
-## 👋 안녕하세요. 임지현입니다!
+
+## 👋 안녕하세요. 임지현입니다! 
 저는 항상 **새로운 도전에 대한 열린 마음**을 가지고 있습니다! 새로운 기술을 습득하는 것은 단순한 의무가 아니라 **재미로 느껴집니다**. <br>
 또한, **기초를 중요하게 생각**하며, 기본기를 탄탄히 다지는 것이 중요하다고 생각합니다. <br>
 그리고, **실수와 반복을 최소화** 하기 위해 **회고록을 작성**하고 **문서를 업데이트**하는 습관을 가지고 있습니다.
@@ -51,6 +52,15 @@
 </div>
 
 <br>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/mic050r"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <br>
 <p align="right">
   <a href="https://github.com/mic050r/hit-counter">
