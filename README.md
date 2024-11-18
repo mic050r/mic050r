@@ -10,7 +10,7 @@
       <a href="https://rei050r.tistory.com"><img src="https://img.shields.io/badge/tistory-FF4500?style=for-the-badge&logo=tistory&logoColor=white"/></a>
     </div>
 
-
+> 💻 [노션 Portfolio](https://juniper-ozraraptor-ff3.notion.site/Hello-142db9d040e380c5af16c022e2b41c8a?pvs=4)<br>
 > 🏫 [수업 코드 Organization](https://github.com/school-note) <br>
 > 🤓 [개발 스터디 Organization](https://github.com/jh-study-note)
 
