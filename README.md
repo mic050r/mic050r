@@ -1,71 +1,104 @@
+<!-- Header -->
+<h1 align="center">Hi, I'm Ji Hyeon 👋</h1>
 
-## 👋 안녕하세요. 임지현입니다! 
-저는 항상 **새로운 도전에 대한 열린 마음**을 가지고 있습니다! 새로운 기술을 습득하는 것은 단순한 의무가 아니라 **재미로 느껴집니다**. <br>
-또한, **기초를 중요하게 생각**하며, 기본기를 탄탄히 다지는 것이 중요하다고 생각합니다. <br>
-그리고, **실수와 반복을 최소화** 하기 위해 **회고록을 작성**하고 **문서를 업데이트**하는 습관을 가지고 있습니다.
-
-### ✏ My Storage
-  <a href="https://velog.io/@mic050r/posts"><img src="https://img.shields.io/badge/velog-20c997.svg?style=for-the-badge&logo=velog&logoColor=white"/></a>
-    </div>
-      <a href="https://rei050r.tistory.com"><img src="https://img.shields.io/badge/tistory-FF4500?style=for-the-badge&logo=tistory&logoColor=white"/></a>
-    </div>
-
-> 💻 [노션 Portfolio](https://juniper-ozraraptor-ff3.notion.site/Hello-142db9d040e380c5af16c022e2b41c8a?pvs=4)<br>
-> 🏫 [수업 코드 Organization](https://github.com/school-note) <br>
-> 🤓 [개발 스터디 Organization](https://github.com/jh-study-note)
-
-### 💁🏻‍♀️ My Interest
-<!-- <code><img height="35" src="https://skills.thijs.gg/icons?i=rust&theme=light"></code>
-<code><img height="35" src="https://skills.thijs.gg/icons?i=go&theme=light"></code>
-<code><img height="35" src="https://skills.thijs.gg/icons?i=spring&theme=light"></code>
-<code><img height="35" src="https://skills.thijs.gg/icons?i=sequelize&theme=light"></code>
-<code><img height="35" src="https://skills.thijs.gg/icons?i=redis&theme=light"></code>
-<code><img height="35" src="https://skills.thijs.gg/icons?i=aws&theme=light"></code>
-<code><img height="35" src="https://skills.thijs.gg/icons?i=docker&theme=light"></code>
-<code><img height="35" src="https://skills.thijs.gg/icons?i=notion&theme=light"></code>
-<code><img height="35" src="https://skills.thijs.gg/icons?i=obsidian&theme=dark"></code>
---> 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,docker,python,spring,hibernate,gradle,linux,aws,postgresql,redis,obsidian,notion)](https://skillicons.dev)
-
-### 🔥 My Acitivity
-
-<a href="https://github.com/mic050r/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=mic050r" />
-</a>
-
-<a href="https://git.io/streak-stats">
-  <img height=170 align="center" src="https://streak-stats.demolab.com?user=mic050r&theme=transparent" />
-</a> 
-
-
-### 💻 My Project
-
-<div align="center">
-
-| 제목 | 기간 | 인원 | 소개 | 맡은 역할 | 사용스킬 | 링크 |
-| :--------: | :-----: | :---------: | :-------: | :-------: | :------: | :---------: |
-| Wevel | 2024.01 <br> (리팩토링) | FE 1 BE 2 | 자동으로 영수증을 번역, 정리해서 나의 소비금액을 알려주는 서비스 | Front,Back | Spring Boot3 | [Front](https://github.com/23JGP/Wevel_App) [Back](https://github.com/23JGP/Wevel_Server) |
-| TestMate | 2023.08 ~ 2023.09 <br> (리팩토링) | FE 2 BE 2 | 시험지 공부법을 이용하여 개인의 학습 수준을 파악하고, 향상시키기 위한 자기주도학습 지원 앱 | Front, Back | Android, Spring Boot3 | [Front](https://github.com/2023-Test-mate/test-mate-android) [Back](https://github.com/2023-Test-mate/test-mate-back-ver2) |
-| MtoM | 2024.04 ~ 2024.06 | FE 2 BE 2 | 미림 안에서 멘토와 멘티를 매칭하고, 학생들끼리 서로 소통 할 수 있는 커뮤니티 | Back | Spring Boot3 | [링크](https://github.com/2024-ITShow-MToM/MtoM-Back) |
-| PostRecall | 2023.09 ~ 2023.12 | FE 1 BE 1 | 포스트잇 공부법을 토대로한 빠르고 편리한 스마트 학습 서비스 | Front, Back | Node.js | [링크](https://github.com/PostRecall/PostRecall-BE) |
-| StarBuck | 2023.06 ~ 2023.12 | 개인 | 스타벅스의 음료 메뉴를 장바구니 추가 및 결제 할 수 있는 홈페이지 | Front, Back | PHP, Twig | [링크](https://github.com/mic050r/StarBucks) |
-</div>
-
-
-<!--
-<br><br>
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/mic050r"
-  width="600"
-  height="300"
-/>
-</a>
--->
-<br>
-<p align="right">
-  <a href="https://github.com/mic050r/hit-counter">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmic050r%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" alt="Hits">
-  </a>
+<p align="center">
+  Backend Developer | AI Agent Engineer
 </p>
 
+<p align="center">
+  기술을 통해 사람들의 문제를 해결하는 개발자입니다.
+  <br />
+  Building practical services with backend engineering and AI.
+</p>
+
+<p align="center">
+  <a href="https://github.com/mic050r"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.linkedin.com/in/mic050r/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:saebam913@gmail.com"><img src="https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://rei050r.tistory.com"><img src="https://img.shields.io/badge/tistory-FF4500?style=flat-square&logo=tistory&logoColor=white" alt="Tistory" /></a> <a href="https://velog.io/@mic050r"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog" /> </a>
+</p>
+
+---
+
+## About Me
+
+- 기본 원리와 원인을 이해하고 문제를 해결하는 과정을 중요하게 생각합니다.
+- 읽기 쉽고 유지보수하기 좋은 코드를 작성하기 위해 고민합니다.
+- 문제를 구조적으로 분석하고, 상황에 맞는 해결 방법을 찾습니다.
+- 새로운 기술을 학습하고 실제 서비스에 적용하며 경험을 쌓습니다.
+- 기술적인 고민과 시행착오를 기록하고, 더 나은 개발 방법을 찾아갑니다.
+
+
+## Experience
+
+**[PUBICAI](https://www.publicai.co.kr/) · Backend Developer**
+
+> 2024.11 – Present
+
+- **생성형 AI 및 Agent 개발**
+  - LangChain, LangGraph 기반 RAG·멀티턴 Agent 설계 및 개발, AI Tool 구현과 응답 품질 개선
+- **백엔드 서비스 개발**
+  - FastAPI 기반 REST API 설계, 파일 업로드·다운로드·관리 기능 구현 및 운영 안정화
+- **문서 데이터 파이프라인 구축**
+  - PDF, PPT, DOCX, XLSX, HWP 파싱·전처리 자동화 및 임베딩·색인·검색 파이프라인 개발
+- **시스템 개선 및 유지보수**
+  - 서비스 아키텍처 개선, 코드 리팩토링, 장애 원인 분석 및 기술 문서화
+
+## Tech Stack
+
+**Language & Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
+
+**AI & LLM**
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-333333?style=flat-square&logoColor=white" alt="LangGraph" />
+</p>
+
+**Database & Search**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" alt="OpenSearch" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+</p>
+
+**Tools & Workflow**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
+
+## Dev Log
+
+기술 학습 내용과 문제 해결 과정, 개발하면서 얻은 인사이트를 기록합니다.
+
+- [Tistory Blog](https://rei050r.tistory.com)
+- [Velog](https://velog.io/@mic050r)
+
+
+## GitHub Stats
+
+<p align="center">
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=mic050r&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mic050r&layout=compact&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080"
+    alt="Top Languages"
+  />
+</p>
+
+
+<p align="center">
+  <sub>기본에 충실하게, 더 나은 방법을 고민하며, 꾸준히 성장합니다.</sub>
+</p>
