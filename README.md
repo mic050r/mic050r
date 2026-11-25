@@ -80,8 +80,13 @@
 기술 학습 내용과 문제 해결 과정, 개발하면서 얻은 인사이트를 기록합니다.
 
 - [Tistory Blog](https://rei050r.tistory.com)
-- [Velog](https://velog.io/@mic050r)
+<!-- - [Velog](https://velog.io/@mic050r) -->
 
+<p align="center">
+  <a href="https://velog.io/@mic050r">
+    <img src="https://velo-card.profilecard.workers.dev/api?name=mic050r&border_radius=7&tags=docker%2C%ED%9A%8C%EA%B3%A0%2Cerror%2CJava%2CK-DEVCON%2CAI" alt="mic050r velog" />
+  </a>
+</p>
 
 ## GitHub Stats
 
